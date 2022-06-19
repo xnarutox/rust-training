@@ -1,0 +1,2 @@
+# rust-training
+rust learning
